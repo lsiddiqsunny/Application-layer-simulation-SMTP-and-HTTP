@@ -1,0 +1,17 @@
+From: waqar.hassan866@gmail.com
+To: waqar.hassan866@gmail.com
+To: tameem.bin.haider.101@gmail.com
+To: kowshid@gmail.com
+MIME-Version: 1.0
+Subject: attachment testing
+Content-Type: multipart/mixed; boundary=myBoundary
+
+--myBoundary
+this is line dos.
+this is line tres.
+this is line uno.
+regards, cse15.
+--myBoundary
+Content-Type: application/octet-stream; name=\"image.jpg\"
+Content-Disposition: attachment; filename=\"image.jpg\"
+Content-Transfer-Encoding: base64
