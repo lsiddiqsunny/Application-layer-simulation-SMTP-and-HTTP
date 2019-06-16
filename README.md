@@ -1,4 +1,4 @@
-# Wroking-with-application-layer-protocol
+# Application layer simulation : SMTP and HTTP
 
 ## Problem # 1
 
